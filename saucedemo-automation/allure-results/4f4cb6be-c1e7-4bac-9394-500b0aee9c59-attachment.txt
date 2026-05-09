@@ -1,0 +1,3 @@
+Selected Product: Test.allTheThings() T-Shirt (Red)
+Checkout Products: [ 'Test.allTheThings() T-Shirt (Red)' ]
+Final Total: Total: $17.27

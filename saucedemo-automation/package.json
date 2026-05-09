@@ -1,0 +1,26 @@
+{
+  "name": "saucedemo-automation",
+  "version": "1.0.0",
+  "description": "SauceDemo Automation Testing Project",
+  "main": "index.js",
+
+  "scripts": {
+    "test": "playwright test",
+    "q1": "playwright test -g Q1",
+    "q2": "playwright test -g Q2",
+    "q3": "playwright test -g Q3",
+    "report": "allure generate ./allure-results --clean && allure open"
+  },
+
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+
+  "dependencies": {
+    "@playwright/test": "^1.59.1"
+  },
+
+  "devDependencies": {
+    "allure-playwright": "^3.7.2"
+  }
+}

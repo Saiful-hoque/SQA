@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","1124","Q1 - Locked out user login validation","","2026-05-09","passed","2026-05-09","","tests\saucedemo.spec.js","",""
+"","18550","Q3 - Performance glitch user checkout flow","","2026-05-09","passed","2026-05-09","","tests\saucedemo.spec.js","",""
+"","3846","Q2 - Standard user complete checkout flow","","2026-05-09","passed","2026-05-09","","tests\saucedemo.spec.js","",""
