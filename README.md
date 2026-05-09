@@ -14,8 +14,13 @@ npm test
 
 ## Run Individual Tests
 npm run q1
+
+
 npm run q2
+
+
 npm run q3
+
 
 # Allure Report
 npm run report
